@@ -1,85 +1,15 @@
 [
    {
-      "name": "Mi A2",
+      "name": "Xiaomi Redmi Note 8",
       "brand": "Xiaomi",
-      "codename": "jasmine_sprout",
+      "codename": "ginkgo",
       "supported_versions": [
          {
             "version_code": "ten",
             "version_name": "Ten",
-            "maintainer_name": "Aryan Gupta",
-            "maintainer_url": "https://github.com/darkbeast69",
-            "xda_thread": "https://forum.xda-developers.com/mi-a2/development/rom-pixel-experience-t3968163"
+            "maintainer_name": "Dinh San",
+            "maintainer_url": "https://github.com/dinhsan2000",
                }
             ]
          },
-         {
-            "version_code": "ten_plus",
-            "version_name": "10 (Plus Edition)",
-            "maintainer_name": "Aryan Gupta",
-            "maintainer_url": "https://github.com/darkbeast69",
-            "xda_thread": "https://forum.xda-developers.com/mi-a2/development/rom-pixel-experience-t3968163"
-         },
-      {
-      "name": "Redmi Note 6 Pro",
-      "brand": "Xiaomi",
-      "codename": "twolip",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "version_name": "10",
-            "maintainer_name": "Niteshkumar (niti)",
-            "maintainer_url": "https://github.com/niteshkumar2000",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-6-pro/development/rom-pixel-experience-t4047809/"
-         },
-         {
-            "version_code": "ten_plus",
-            "version_name": "10 (Plus edition)",
-            "maintainer_name": "Niteshkumar (niti)",
-            "maintainer_url": "https://github.com/niteshkumar2000",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-6-pro/development/rom-pixel-experience-plus-t4065441"
-         }
-      ]
-   },
-   {
-      "name": "Redmi Note 4",
-      "brand": "Xiaomi",
-      "codename": "mido",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "version_name": "10",
-            "maintainer_name": "Aryan Kedare",
-            "maintainer_url": "https://github.com/aryankedare",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-6-pro/development/rom-pixel-experience-t4047809/"
-         },
-         {
-            "version_code": "ten_plus",
-            "version_name": "10 (Plus edition)",
-            "maintainer_name": "Aryan Kedare",
-            "maintainer_url": "https://github.com/aryankedare",
-            "xda_thread": "https://forum.xda-developers.com/redmi-note-6-pro/development/rom-pixel-experience-plus-t4065441"
-         }
-      ]
-   },
-   {
-      "name": "Redmi Note 5 AI/Pro",
-      "brand": "Xiaomi",
-      "codename": "whyred",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "version_name": "10",
-            "maintainer_name": "Sebastián López",
-            "maintainer_url": "https://github.com/Jhonse02",
-         },
-         {
-            "version_code": "ten_plus",
-            "version_name": "10 (Plus edition)",
-            "maintainer_name": "Sebastián López",
-            "maintainer_url": "https://github.com/Jhonse02",
-         }
-      ]
-   }
-]
 
