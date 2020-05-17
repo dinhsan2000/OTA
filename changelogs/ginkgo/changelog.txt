@@ -1,1 +1,9 @@
-//Initial\\
+Initial Build
+Fixed screen recorder
+
+Credits:
+
+* Thanks to Trinket - devs for kernel QuicksilveR
+* Thanks to @Billaids who teach me lot of!
+* Thanks to to @HyperN00B who teach me use git!!!
+* Thanks to @Lenovoved for chromatix mods
